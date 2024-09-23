@@ -10,13 +10,13 @@ Welcome to the **Ollama LLM Project**! This project integrates the **LLaMA3** la
 
 2. **Install frontend webinterface i created**:
     ```bash
-    git clone https://github.com/sholomperman/MrRobotAI.git
+    git clone https://github.com/sholomperman/Local-AI.git
     cd MrRobotAI
     ```
 
 3. **Install npm dependencies**:
     ```bash
-    npm i
+    npm install
     ```
 
 5. **Start the React App**:
@@ -28,9 +28,9 @@ Welcome to the **Ollama LLM Project**! This project integrates the **LLaMA3** la
     Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 > [!NOTE]
-> If you end un using something different then qwen:0.5b the API endpoint might be different then the one in the code
+> If you end un using something different then qwen:0.5b change the API call to include the correct LLC
 
-> **⚠️ Warning:**  
-> If you are looking for a good web interface for your local LLM use Open WebUI
+> [!WARNING] 
+> If you are looking for a good web interface for your local LLM use Open WebUI it has all the features necessary and more
 > [Open WebUI](https://github.com/open-webui/open-webui)
 
