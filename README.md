@@ -11,7 +11,7 @@ Welcome to the **Ollama LLM Project**! This project integrates the **LLaMA3** la
 2. **Install frontend webinterface i created**:
     ```bash
     git clone https://github.com/sholomperman/Local-AI.git
-    cd MrRobotAI
+    cd Local-AI
     ```
 
 3. **Install npm dependencies**:
