@@ -1,0 +1,22 @@
+
+#Response {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+#Response p {
+    max-height: 400px;
+    width: 350px;
+    background-color: none;
+    color: #ececec;
+    padding: 12px;
+    border-radius: 16px;
+    overflow: scroll;
+}
+  #Response code {
+    font-family: 'Courier New', monospace;
+    color: #a8a8a8;
+  }
+  
